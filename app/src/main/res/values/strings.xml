@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sudoku(Lab)</string>
+    <string name="title">Sudoku Master</string>
+    <string name="solve">Solver</string>
+    <string name="clear">Clear</string>
+    <string name="play">Play Game</string>
+    <string name="highscore">High Score</string>
+    <string name="check">Check</string>
+    <string name="howtoplay">How To Play</string>
+    <string name="newboard">New</string>
+    <string name="title_activity_how_to_play">HowToPlay</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

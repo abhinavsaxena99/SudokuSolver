@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "748474670681",
+    "firebase_url": "https://sudokulab-efec7.firebaseio.com",
+    "project_id": "sudokulab-efec7",
+    "storage_bucket": "sudokulab-efec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748474670681:android:871cf3cf8313d787399b48",
+        "android_client_info": {
+          "package_name": "com.example.sudokulab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748474670681-kbvdlesv3kqb49n9s4n349tdqrri1i2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sudokulab",
+            "certificate_hash": "fb313c452ee56e0f48652aeca6207c127b5eb3a7"
+          }
+        },
+        {
+          "client_id": "748474670681-cvkita2p98fju1ham81h7fpgrodv58pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU8_DiXl-GEBjwBnuEpAX7O2J-YB6C7qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748474670681-cvkita2p98fju1ham81h7fpgrodv58pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
